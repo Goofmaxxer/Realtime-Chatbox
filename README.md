@@ -3,7 +3,8 @@
 A simple and responsive chat application built using **React** (frontend) and **Node.js with Socket.IO** (backend). It allows users to chat in real-time with instant message updates.
 
 ---
-##👤 Author
+## 👤 Author
+
 -Sri Krishna V R
 -Intern at CodTech IT Solutions
 -Intern ID: CT04DN1421
