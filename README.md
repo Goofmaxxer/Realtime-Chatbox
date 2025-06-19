@@ -5,10 +5,10 @@ A simple and responsive chat application built using **React** (frontend) and **
 ---
 ## 👤 Author
 
--Sri Krishna V R
--Intern at CodTech IT Solutions
--Intern ID: CT04DN1421
--Mentor: Neela Santosh
+- Sri Krishna V R
+- **Intern** at CodTech IT Solutions
+- **Intern ID** - CT04DN1421
+- **Mentor** - Neela Santosh
 ---
 ## 🛠️ Technologies Used
 
