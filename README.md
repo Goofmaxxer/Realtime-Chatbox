@@ -30,6 +30,12 @@ A simple and responsive chat application built using **React** (frontend) and **
 ---
 ## Screenshot
 
+![Image](https://github.com/user-attachments/assets/2357c6a5-6d96-4929-aad0-736f79b9f441)
 
+---
+
+## Live Link
+
+https://flourishing-figolla-0a2674.netlify.app/
 
 
